@@ -16,8 +16,8 @@ body {
 
 .square {
     flex: 1 0 auto;
-    width: calc(960px / 16); /* Set width dynamically */
-    height: calc(960px / 16); /* Set height dynamically */
+    width: calc(960px / 16); 
+    height: calc(960px / 16); 
     background-color: #f0f0f0;
     transition: background-color 0.3s;
 }
